@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b035a01027e292d458ccb744b58bd97d, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  nameChar: Adel
+  character: {fileID: 21300000, guid: c0d88ddc7d7221e41b75774b83b89bb5, type: 3}
+  dialogueText: Jadi, Kakek aku punya kandang marmut berbentuk balok dengan kerangka
+    terbuat dari besi dan permukaannya dari bahan kawat.
+  speech: {fileID: 8300000, guid: 85d58a8be7747a84c81e0b764e694a05, type: 3}
+  WaitTime: 1
+  spawnObject: 0

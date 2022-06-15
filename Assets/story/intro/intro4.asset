@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b035a01027e292d458ccb744b58bd97d, type: 3}
+  m_Name: intro4
+  m_EditorClassIdentifier: 
+  nameChar: Adel
+  character: {fileID: 21300000, guid: c5b72fc70a6816c4b897c4cfdfe379df, type: 3}
+  dialogueText: Bangun ruang dibedakan menjadi dua, yaitu bangun ruang sisi datar
+    dan bangun ruang sisi lengkung.
+  speech: {fileID: 8300000, guid: 93dbfcfa91112434ebf0a26e3c90f75f, type: 3}
+  WaitTime: 5
